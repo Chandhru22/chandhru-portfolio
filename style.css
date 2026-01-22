@@ -25,3 +25,9 @@
 .labb{
     margin-right: 370PX;
 }
+.img{
+    object-fit: cover;
+    object-position: bottom;
+    margin-right: 100px;
+    border-radius: 50%;
+}
