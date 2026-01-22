@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner{
+    background-image: url("pic1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.b{
+    background-color: black;
+    color: white;
+}
+.divv{
+    width: 500px;
+}
+.lab{
+    margin-right: 500px;
+}
+.bt{
+    margin-right: 400px;
+    width: 100px;
+}
+.labb{
+    margin-right: 370PX;
+}
