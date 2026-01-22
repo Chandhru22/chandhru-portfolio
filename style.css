@@ -29,5 +29,13 @@
     object-fit: cover;
     object-position: bottom;
     margin-right: 100px;
-    border-radius: 50%;
+    border-radius: 40%;
 }
+.l1{
+    cursor: pointer;
+}
+.l1:hover{
+    
+    color: rgb(164, 181, 195);
+}
+
